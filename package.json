@@ -1,0 +1,12 @@
+{
+    "name": "config",
+
+    "version": "0.0.1",
+
+    "dependencies": {
+        "settings": "0.1.0",
+        "logger": "git://github.com/ydw223/logger.git"
+    },
+
+    "readmeFilename": "README.md"
+}
