@@ -1,6 +1,6 @@
 var fs = require('fs');
 var path = require('path');
-var logger = require('logger')('config');
+var logger = require('logger');
 
 var config = null;
 var found = false;
